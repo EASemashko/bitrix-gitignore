@@ -1,6 +1,7 @@
 /public_html/bitrix/*
 !/public_html/bitrix/php_interface/
 !/public_html/bitrix/templates/
+/public_html/bitrix/php_interface/*.bak
 /public_html/bitrix/php_interface/dbconn.php
 .idea/*
 /public_html/upload/
@@ -23,6 +24,13 @@ restore.php
 *.txt
 *.xml
 *.dt
+*.tar.gz
 *.swp
 *.swo
 *.DS_Store
+*.tar
+*.bak
+*.old
+*.restore
+*.log
+/cgi-bin/
