@@ -1,6 +1,6 @@
 /bitrix/*
-!/bitrix/php_interface/
-!/bitrix/templates/
+!/bitrix/php_interface/*
+!/bitrix/templates/*
 /bitrix/php_interface/*.bak
 /bitrix/php_interface/dbconn.php
 .idea/*
